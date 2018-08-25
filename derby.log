@@ -1,0 +1,20 @@
+Sat Aug 25 19:33:05 WEST 2018 : Apache Derby Network Server - 10.10.2.0 - (1582446) started and ready to accept connections on port 1527
+----------------------------------------------------------------
+Sat Aug 25 19:33:05 WEST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0165-725c-6f7f-000034778897 
+on database directory /Users/admin/Downloads/SlytherSep/slytherDB with class loader sun.misc.Launcher$AppClassLoader@66d3c617 
+Loaded from file:/Applications/NetBeans/glassfish-4.1.1/javadb/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_121-b13
+user.dir=/Applications/NetBeans/glassfish-4.1.1/javadb
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.3
+derby.system.home=/Users/admin/Downloads/SlytherSep
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Aug 25 20:19:56 WEST 2018: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Aug 25 20:19:56 WEST 2018:
+Shutting down instance a816c00e-0165-725c-6f7f-000034778897 on database directory /Users/admin/Downloads/SlytherSep/slytherDB with class loader sun.misc.Launcher$AppClassLoader@66d3c617 
+----------------------------------------------------------------
